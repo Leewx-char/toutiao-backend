@@ -17,7 +17,9 @@
 
 ## 软件架构
 
-架构图源文件位于 `assets/architecture.excalidraw`，可在 [Excalidraw](https://excalidraw.com) 中打开查看完整矢量图。
+![头条后端架构图](assets/architecture.png)
+
+> 前往 [Excalidraw](https://excalidraw.com) 打开 `assets/architecture.excalidraw` 可查看和编辑可缩放矢量版本。
 
 ```
 ┌─────────────────────────────────────┐
